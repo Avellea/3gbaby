@@ -1,0 +1,2 @@
+Images of hardware modifications will be in this folder,
+along with respective documentation from the HENkaku wiki.
