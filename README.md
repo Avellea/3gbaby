@@ -7,7 +7,6 @@ Theoretically this can be used for a manual installation of a PSVSD, though hard
 The repo will be updated with the test results of that project eventually.
 
 ## Credits
----
 
 [Avellea](https://github.com/Avellea): Reverse engineering, hardware
 
