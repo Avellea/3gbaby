@@ -1,5 +1,8 @@
 # 3GBaby
 
+## ARCHIVED
+> [!WARNING] 
+> This project is now archived, as I have neither the time nor desire to continue it. 
 
 [enso_ex](https://github.com/SKGleba/enso_ex) module for enabling the 3G USB port inside of a PCH-1000 (and 2000, but why?)
 
