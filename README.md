@@ -6,8 +6,7 @@
 
 [enso_ex](https://github.com/SKGleba/enso_ex) module for enabling the 3G USB port inside of a PCH-1000 (and 2000, but why?)
 
-Theoretically this can be used for a manual installation of a PSVSD, though hardware testing must be done.
-The repo will be updated with the test results of that project eventually.
+Hardware testing has been done, and it does indeed work. Thanks to @devdavisnunez in the CBPS Discord server. See `hardware` directory for images.
 
 ## Credits
 
